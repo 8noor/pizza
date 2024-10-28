@@ -12,7 +12,7 @@ export default function Home() {
       <Featured/>
       <Offer/>
       <SingleProductPage/>
-      <Price price={0} id={0}/>
+      <Price price={0}/>
       
       
       
